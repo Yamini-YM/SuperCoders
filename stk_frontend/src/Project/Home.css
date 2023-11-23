@@ -1,0 +1,24 @@
+/* .home{
+    
+        
+  
+  right: 100px;
+background-image: linear-gradient(to right,rgb(93, 128, 184),rgba(255, 0, 212, 0)); 
+  color:black;
+  padding-left: 0px;
+  padding-right: 0px;
+  height: 87%;
+  width: 28%;
+  position: absolute;
+  overflow: auto;
+  font-style: italic;
+  font-size: larger;
+
+  
+  
+
+} */
+
+.img{
+  padding-inline: 18%;
+}

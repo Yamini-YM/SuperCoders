@@ -1,0 +1,50 @@
+.foot {
+    padding: 20px;
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(255, 0, 234), rgba(54, 21, 47, 0));
+    color: rgb(0, 0, 0);
+    
+    text-shadow: -1px 0 rgb(248, 246, 246), 0 1px rgb(247, 241, 241), 1px 0 rgb(247, 244, 244), 0 -1px rgb(247, 244, 244);
+  }
+  .column {
+    float: left;
+    width: 21%;
+    margin-bottom: 16px;
+    padding: 0  20px;
+  }
+  
+  .card {
+    
+    margin: 8px;
+  }
+  .container {
+    padding: 0 6px;
+  }
+  .title {
+    color:rgb(63, 2, 63);
+    font-style: italic;
+    font-size: larger;
+  }
+  
+  .button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+  }
+  .h3{
+    align-items:center;
+  }
+
+  .ccc{
+    font-style: italic;
+   
+  }
+  .blur{
+    backdrop-filter:blur(3px);
+  }

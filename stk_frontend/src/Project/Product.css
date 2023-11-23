@@ -1,0 +1,55 @@
+.container {
+    max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f0f0f0;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 0rem 0rem 2rem 0.1rem #5545ff;
+  
+  }
+  /* .registration-form-container::before{
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    max-width: 500px;
+    max-height: 800px;
+    background: linear-gradient(0deg, transparent, transparent, #45f3ff, #45f3ff, #45f3ff);
+    z-index: 1;
+    transform-origin: bottom right;
+    animation: animate 6s linear infinite; 
+  } */
+  
+
+  .row {
+    width: 95%;
+  padding: 5px;
+  font-size: 16px;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  background-color: white;
+  font-family: 'Times New Roman';
+  font-size: 18px;
+  }
+
+  .h{
+    text-align: center;
+  color: blue;
+  }
+
+  button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Add more styles as needed... */
+  
